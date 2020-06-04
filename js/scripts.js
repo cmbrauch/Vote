@@ -1,7 +1,7 @@
 $(document).ready(function() {
-    const age  =parseInt(prompt("How old are you?"));
+    const over18 = confirm("Are you 18 or older? Click OK for yes or Cancel for no.");
 
-    if (age >= 18) {
+    if (over18 === true) {
         $('#vote').show();
     } else {
         $('#under-18').show();
