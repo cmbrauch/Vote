@@ -1,26 +1,26 @@
-# _{Application Name}_
+# _Vote_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _A basic javascript application to practice branching , June 4th, 2020_
 
-#### By _**Taylor Phillips**_
+#### By _**Taylor Phillips and Chris Brauch**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This was a practice project at Epicodus where we used javscript branching to select which image to display based on the user input_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Go to github repo https://github.com/tayphill13/Vote.git_
+* _Clone to your desktop using Command Line Terminal_
+* _Type in git clone url_
+* _Open project folder to find index.html_
+* _Open index.html in preferred web browser_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* _Use an application like VSCode to edit the codebase_
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_No known bugs_
 
 ## Support and contact details
 
@@ -35,6 +35,6 @@ _VSCode_
 
 ### License
 
-*MIT License*
+*This software is licensed under MIT License*
 
-Copyright (c) 2020 **_Taylor Phillips_**
+Copyright (c) 2020 **_Taylor Phillips and Chris Brauch_**
